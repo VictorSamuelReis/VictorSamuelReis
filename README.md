@@ -1,4 +1,5 @@
-<h2 align="left">Hello World👋! My name is Victor Samuel and I'm a full stack developer, from Minas Gerais, Brazil. Welcome!</h2>
+<h2 align="left">Hello World👋! My name is Victor Samuel and I'm a full stack developer, from Minas Gerais, Brazil. <br/>
+  Welcome!</h2>
 
 ###
 
