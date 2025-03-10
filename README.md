@@ -38,3 +38,5 @@
 </div>
 
 ###
+
+<p>Contact me via my email: victorsamuel4747@gmail.com</p>
