@@ -40,6 +40,6 @@
 
 ###
 
-<p>Contact me via email: victorsamuel4747@gmail.com <b/>
-  my LinkeIn: www.linkedin.com/in/victorsamuelreis
-</p>
+<p>Contact me via email: victorsamuel4747@gmail.com</p>
+<p>my LinkeIn: www.linkedin.com/in/victorsamuelreis</p>
+
