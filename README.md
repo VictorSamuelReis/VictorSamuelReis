@@ -43,6 +43,4 @@
 
 ###
 
-<p>Contact me via email: victorsamuel4747@gmail.com</p>
-
 
