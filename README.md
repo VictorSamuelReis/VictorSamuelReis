@@ -40,5 +40,5 @@
 ###
 
 <p>Contact me via email: victorsamuel4747@gmail.com</p>
-<p>My LinkeIn: <a href="www.linkedin.com/in/victorsamuelreis target="_blank">victorsamuelreis</p>
+
 
